@@ -1,0 +1,15 @@
+C:\Users\555\OneDrive\Masaüstü\metodsAb201\metodsAb201\bin\Debug\net6.0\metodsAb201.exe
+C:\Users\555\OneDrive\Masaüstü\metodsAb201\metodsAb201\bin\Debug\net6.0\metodsAb201.deps.json
+C:\Users\555\OneDrive\Masaüstü\metodsAb201\metodsAb201\bin\Debug\net6.0\metodsAb201.runtimeconfig.json
+C:\Users\555\OneDrive\Masaüstü\metodsAb201\metodsAb201\bin\Debug\net6.0\metodsAb201.dll
+C:\Users\555\OneDrive\Masaüstü\metodsAb201\metodsAb201\bin\Debug\net6.0\metodsAb201.pdb
+C:\Users\555\OneDrive\Masaüstü\metodsAb201\metodsAb201\obj\Debug\net6.0\metodsAb201.csproj.AssemblyReference.cache
+C:\Users\555\OneDrive\Masaüstü\metodsAb201\metodsAb201\obj\Debug\net6.0\metodsAb201.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\555\OneDrive\Masaüstü\metodsAb201\metodsAb201\obj\Debug\net6.0\metodsAb201.AssemblyInfoInputs.cache
+C:\Users\555\OneDrive\Masaüstü\metodsAb201\metodsAb201\obj\Debug\net6.0\metodsAb201.AssemblyInfo.cs
+C:\Users\555\OneDrive\Masaüstü\metodsAb201\metodsAb201\obj\Debug\net6.0\metodsAb201.csproj.CoreCompileInputs.cache
+C:\Users\555\OneDrive\Masaüstü\metodsAb201\metodsAb201\obj\Debug\net6.0\metodsAb201.dll
+C:\Users\555\OneDrive\Masaüstü\metodsAb201\metodsAb201\obj\Debug\net6.0\refint\metodsAb201.dll
+C:\Users\555\OneDrive\Masaüstü\metodsAb201\metodsAb201\obj\Debug\net6.0\metodsAb201.pdb
+C:\Users\555\OneDrive\Masaüstü\metodsAb201\metodsAb201\obj\Debug\net6.0\metodsAb201.genruntimeconfig.cache
+C:\Users\555\OneDrive\Masaüstü\metodsAb201\metodsAb201\obj\Debug\net6.0\ref\metodsAb201.dll
